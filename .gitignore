@@ -1,0 +1,17 @@
+# Python cache files
+__pycache__/
+
+# Compiled Python files
+*.pyc
+
+# Virtual environment folder
+venv/
+
+# Model-related files (generated during training)
+chat_model/
+
+# Pickle files
+tokenizer.pickle
+label_encoder.pickle
+
+# Any other sensitive or generated files
